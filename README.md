@@ -1,10 +1,8 @@
 
-
 ---
+![Artiqo Logo](assets/logo.png)
 
 # 🎨 **Artiqo: Your Personal Art Gallery and Creative Hub**
-
-![Artiqo Logo](path/to/your/logo.png)
 
 Welcome to **Artiqo**, a vibrant platform that connects art lovers, creators, and communities. Whether you're here to curate your personal gallery, explore famous works from museums worldwide, or share your own artistic journey, Artiqo provides the space for creativity to flourish.
 
@@ -49,13 +47,13 @@ Discuss your favorite pieces, leave insightful comments, and build connections w
 Here are some highlights of the Artiqo experience:
 
 ### **Explore Public Art Collections**
-![Explore Art](path/to/explore-screenshot.png)
+![Explore Art](assets/desktopPlaceholder.png)
 
 ### **Curate Your Gallery**
-![Your Gallery](path/to/curate-screenshot.png)
+![Your Gallery](assets/tabletPlaceholder.png)
 
 ### **Support Living Artists**
-![Living Artists](path/to/living-artists-screenshot.png)
+![Living Artists](assets/mobilePlaceholder.png)
 
 ---
 
@@ -77,13 +75,13 @@ We are always adding more sources to expand our collections and features that he
 
 - **Node.js**: Ensure you have [Node.js](https://nodejs.org/en/) installed.
 - **Git**: You'll need Git for version control. [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- **MongoDB**: We use MongoDB to store user data and artwork collections.
+- **Postgres**: We use MongoDB to store user data and artwork collections.
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourorganization/Artiqo.git
+   git clone https://github.com/Artico/Artiqo.git
    ```
 
 2. Navigate to the project directory:
@@ -118,9 +116,9 @@ Here are some of the exciting features coming soon to Artiqo:
 
 ## 🛠️ **Tech Stack**
 
-- **Frontend**: React, Redux, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Frontend**: React, Strapi, MUI, Tailwind CSS
+- **Backend**: Node.js, React
+- **Database**: Postgres
 - **Authentication**: JWT (JSON Web Tokens)
 - **APIs**: Museum Art APIs (Met Museum, Rijksmuseum, etc.)
 - **Cloud Storage**: AWS S3 for hosting user-uploaded artworks
