@@ -1,6 +1,7 @@
 
 ---
-![Artiqo Logo](assets/logo.png)
+<img src="assets/logoPop.png" alt="Alt text" width="500" height="500">
+
 
 # 🎨 **Artiqo: Your Personal Art Gallery and Creative Hub**
 
